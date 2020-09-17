@@ -1,11 +1,11 @@
-Origin: ConorTheDev's Repo
-Label: ConorTheDev's Repo
+Origin: ConorTheDev's Repo Mirror
+Label: ConorTheDev's Repo Mirror
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: The home of ConorTheDev's Free Tweaks
+Description: The home of ConorTheDev's Free Tweaks, mirror by Burrito
 
 SHA256:
  3999e888fc1cc07bad03388b7aed1bf509f4af988eb2abe673ed6dfe8a32bd9c 1509 Packages.bz2
